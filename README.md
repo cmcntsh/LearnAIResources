@@ -9,3 +9,7 @@
 ## Courses
 
 * Google AI Course https://grow.google/intl/en_pk/guide-ai-machine-learning/
+
+## Image Generation
+
+* ClipDrop https://clipdrop.co/stable-doodle
