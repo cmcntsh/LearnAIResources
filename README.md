@@ -5,6 +5,7 @@
 * Online tools where you can code with Python
   * Google Colab https://colab.research.google.com/?utm_source=scs-index
   * Noteable https://noteable.io/
+  * Gradio https://www.gradio.app/
 
 ## Courses
 
