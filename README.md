@@ -15,4 +15,5 @@
 
 ## Image Generation
 
-* ClipDrop https://clipdrop.co/stable-doodle
+* ClipDrop generate image from doodle https://clipdrop.co/stable-doodle
+* ClipDrop image generation https://clipdrop.co/stable-diffusion
