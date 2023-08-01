@@ -24,3 +24,4 @@
 * LangChain directory loader https://js.langchain.com/docs/api/document_loaders_fs_directory/classes/DirectoryLoader
 * LangChain document loaders https://python.langchain.com/docs/modules/data_connection/document_loaders/
 * LangChain work with Word files https://python.langchain.com/docs/integrations/document_loaders/microsoft_word
+* LangChain unstructured file loader https://python.langchain.com/docs/integrations/document_loaders/unstructured_file
