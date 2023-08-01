@@ -17,3 +17,10 @@
 
 * ClipDrop generate image from doodle https://clipdrop.co/stable-doodle
 * ClipDrop image generation https://clipdrop.co/stable-diffusion
+
+## Semantic Search
+
+* Build a Document-based System (33 min) https://www.youtube.com/watch?v=cVA1RPsGQcw
+* LangChain directory loader https://js.langchain.com/docs/api/document_loaders_fs_directory/classes/DirectoryLoader
+* LangChain document loaders https://python.langchain.com/docs/modules/data_connection/document_loaders/
+* LangChain work with Word files https://python.langchain.com/docs/integrations/document_loaders/microsoft_word
