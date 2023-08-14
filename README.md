@@ -17,6 +17,7 @@
 
 * ClipDrop generate image from doodle https://clipdrop.co/stable-doodle
 * ClipDrop image generation https://clipdrop.co/stable-diffusion
+* https://app.leonardo.ai/auth/login
 
 ## Semantic Search
 
