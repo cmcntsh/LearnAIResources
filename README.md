@@ -39,3 +39,4 @@
 ## Academic and Publishing Guidelines
 
 * https://attheu.utah.edu/facultystaff/fall-2023-instructional-guidelines-on-generative-ai/
+* https://cte.utah.edu/instructor-education/ai-generative-tools.php
