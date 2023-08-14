@@ -35,3 +35,7 @@
 ## Literature Summary
 
 * Scispace https://typeset.io/
+
+## Academic and Publishing Guidelines
+
+* https://attheu.utah.edu/facultystaff/fall-2023-instructional-guidelines-on-generative-ai/
