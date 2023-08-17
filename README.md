@@ -12,6 +12,7 @@
 * Google AI Course https://grow.google/intl/en_pk/guide-ai-machine-learning/
 * DeepLearning.ai short courses https://learn.deeplearning.ai/
   * Build Machine Learning Demos with Gradio appears to be free
+  * https://www.deeplearning.ai/courses/generative-ai-with-llms/
 * (Book) An Introduction to Statistical Learning https://www.statlearning.com/
 
 ## Image Generation
