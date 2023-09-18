@@ -15,6 +15,7 @@
   * https://www.deeplearning.ai/courses/generative-ai-with-llms/
   * https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/
 * (Book) An Introduction to Statistical Learning https://www.statlearning.com/
+* Nvidia https://www.nvidia.com/en-us/training/
 
 ## Image Generation
 
