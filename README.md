@@ -52,3 +52,10 @@
 * https://github.com/huggingface/tokenizers
 * https://huggingface.co/docs/tokenizers/python/latest/quicktour.html
 * https://huggingface.co/docs/transformers/tokenizer_summary
+* https://towardsdatascience.com/nlp-splitting-text-into-sentences-7bbce222ef17
+* https://botflo.com/courses/intro-to-spacy/lessons/how-to-split-text-into-sentences-using-spacy/
+* https://spacy.io/
+* https://github.com/stanfordnlp/stanza
+* https://pypi.org/project/sentence-splitter/
+* blob.sentences https://www.youtube.com/watch?v=ea4IadDRwuc
+* https://www.johnsnowlabs.com/text-preprocessing-splitting-texts-into-sentences-with-spark-nlp/
