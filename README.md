@@ -45,3 +45,10 @@
 
 * https://attheu.utah.edu/facultystaff/fall-2023-instructional-guidelines-on-generative-ai/
 * https://cte.utah.edu/instructor-education/ai-generative-tools.php
+
+## Tokenize Text
+
+* https://blog.finxter.com/python-split-text-into-sentences/
+* https://github.com/huggingface/tokenizers
+* https://huggingface.co/docs/tokenizers/python/latest/quicktour.html
+* https://huggingface.co/docs/transformers/tokenizer_summary
