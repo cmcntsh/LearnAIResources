@@ -14,6 +14,7 @@
   * Build Machine Learning Demos with Gradio appears to be free
   * https://www.deeplearning.ai/courses/generative-ai-with-llms/
   * https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/
+  * https://learn.deeplearning.ai/functions-tools-agents-langchain/lesson/2/openai-function-calling
 * (Book) An Introduction to Statistical Learning https://www.statlearning.com/
 * Nvidia https://www.nvidia.com/en-us/training/
 
