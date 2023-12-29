@@ -1,5 +1,9 @@
 # Learn AI Resources
 
+## Generative AI tools
+
+* https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/
+
 ## Programming Tools
 
 * Online tools where you can code with Python
