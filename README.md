@@ -3,6 +3,7 @@
 ## Generative AI tools
 
 * https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/
+* List of prompts for different tasks https://gorgeous-bee-52f.notion.site/ChatGPT-Power-Prompts-40f8624ee4a0415dbf5ff67987dcdb6e
 
 ## Programming Tools
 
