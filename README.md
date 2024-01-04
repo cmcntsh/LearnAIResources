@@ -70,3 +70,17 @@
 ## Business Plans
 
 * https://www.venturekit.ai/
+
+## Interesting prompts
+
+Prompt: Get a label for instragram post
+
+```
+As a social media specialist, your task is to generate five engaging Instagram captions for my post. The captions should resonate with my audience and enhance the appeal of the images.
+Image Description: [eg. a sun setting over the beach, a bustling city scene, a plate of homemade cookies]
+Post Theme or Message: [eg. relaxation, urban life, home baking]
+Desired Tone or Style: [eg. inspirational, humorous, informative]
+Target Audience: [eg. travel enthusiasts, city dwellers, food lovers]
+Call to Action: [eg. ask for likes/comments, encourage followers to tag a friend, direct followers to a link in bio]
+
+```
