@@ -4,6 +4,7 @@
 
 * https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/
 * List of prompts for different tasks https://gorgeous-bee-52f.notion.site/ChatGPT-Power-Prompts-40f8624ee4a0415dbf5ff67987dcdb6e
+* ChatGPT candidate recommendations base on job descriptions and candidate skills https://chat.openai.com/share/e4eda75a-7d5b-4ca1-97cd-baba20d0c3bc?utm_source=www.theautomated.co&utm_medium=newsletter&utm_campaign=how-to-use-chatgpt-to-avoid-layoffs
 
 ## Programming Tools
 
