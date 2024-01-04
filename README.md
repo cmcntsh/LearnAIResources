@@ -66,3 +66,7 @@
 * https://pypi.org/project/sentence-splitter/
 * blob.sentences https://www.youtube.com/watch?v=ea4IadDRwuc
 * https://www.johnsnowlabs.com/text-preprocessing-splitting-texts-into-sentences-with-spark-nlp/
+
+## Business Plans
+
+* https://www.venturekit.ai/
