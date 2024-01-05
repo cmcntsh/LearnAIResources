@@ -6,6 +6,11 @@
 * List of prompts for different tasks https://gorgeous-bee-52f.notion.site/ChatGPT-Power-Prompts-40f8624ee4a0415dbf5ff67987dcdb6e
 * ChatGPT candidate recommendations base on job descriptions and candidate skills https://chat.openai.com/share/e4eda75a-7d5b-4ca1-97cd-baba20d0c3bc?utm_source=www.theautomated.co&utm_medium=newsletter&utm_campaign=how-to-use-chatgpt-to-avoid-layoffs
 
+## Generative AI Application Builders
+
+* https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform
+* AWS PartyRock https://partyrock.aws/?gclid=CjwKCAiA7t6sBhAiEiwAsaieYqlox2Dy29wxIiRwW20Q9CAqX_Zc_diMHbAZxdRKIIAhecdnPoOv0xoCfEoQAvD_BwE&ef_id=CjwKCAiA7t6sBhAiEiwAsaieYqlox2Dy29wxIiRwW20Q9CAqX_Zc_diMHbAZxdRKIIAhecdnPoOv0xoCfEoQAvD_BwE%3AG%3As&s_kwcid=AL%214422%213%21686079219735%21p%21%21g%21%21partyrock%2120901655877%21158309129978
+
 ## Programming Tools
 
 * Online tools where you can code with Python
