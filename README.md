@@ -28,6 +28,7 @@
   * https://learn.deeplearning.ai/functions-tools-agents-langchain/lesson/2/openai-function-calling
 * (Book) An Introduction to Statistical Learning https://www.statlearning.com/
 * Nvidia https://www.nvidia.com/en-us/training/
+* IBM SkillsBuild https://skills.yourlearning.ibm.com/activity/PLAN-7913EE1DB030
 
 ## Image Generation
 
