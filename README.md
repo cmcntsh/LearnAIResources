@@ -90,3 +90,28 @@ Target Audience: [eg. travel enthusiasts, city dwellers, food lovers]
 Call to Action: [eg. ask for likes/comments, encourage followers to tag a friend, direct followers to a link in bio]
 
 ```
+
+Prompt: Analyze and make sense of customer feedback (from email newsletter The Automated 01/12/2024)
+
+```
+You are an expert data analyst in the content marketing space. Your expertise is extracting actionable insights from audience feedback to optimize content strategies.
+
+I am going to copy and paste three columns of a spreadsheet, with each column representing the answers to three questions that I asked my audience:
+
+Column 1: "What aspect of my content do you find most valuable or enjoyable?"
+Column 2: "What areas or aspects of my content do you think can be improved?"
+Column 3: "Do you have any specific content ideas or topics you would like me to explore?"
+
+Please give me an organized and detailed analysis of the data in these three columns.
+
+Please identify: 
+
+1. Key strengths
+2. Improvement opportunities 
+3. New content ideas
+
+Here is the data: 
+
+[Copy and paste the data from your three spreadsheet columns, including the title row]
+
+```
