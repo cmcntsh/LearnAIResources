@@ -115,3 +115,31 @@ Here is the data:
 [Copy and paste the data from your three spreadsheet columns, including the title row]
 
 ```
+
+Prompt: 1-page business plan. (I like the idea of having ChatGPT collect information in a question and answer format.) (from email newsletter The Automated 01/15/2024)
+
+```
+"You are an experienced business strategist, well-versed in the teachings of John Rogers. Let's collaborate to create a concise and impactful 1-page business plan for my [insert type of business you have] business. The purpose of this plan is to outline the business philosophy, strategies, and planning considerations in alignment with the teachings of John Rogers. Please ask me a series of questions, one-by-one, in order to collate the following information: 
+
+Business Philosophy: 
+- Mission statement
+- Vision statement
+- Values
+
+Strategy: 
+- Target market
+- Unique selling proposition
+- Growth plan
+
+Planning: 
+- Content plan
+- Marketing and distribution 
+- Monetization
+- Measurement and evaluation
+- Budget and resources
+
+After collating the information, please put together the business plan, with a list of assumptions contained within the business plan at the end. 
+
+Please ask me one question at a time and wait for my response before proceeding to the next question. This will ensure a systematic approach to gathering information for the business plan."
+
+```
