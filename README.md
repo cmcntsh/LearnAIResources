@@ -17,6 +17,7 @@
   * Google Colab https://colab.research.google.com/?utm_source=scs-index
   * Noteable https://noteable.io/
   * Gradio https://www.gradio.app/
+* Learn Python https://www.codebay.ai/chat-coding-web/home/auth
 
 ## Courses
 
