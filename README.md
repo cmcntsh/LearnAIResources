@@ -144,3 +144,18 @@ After collating the information, please put together the business plan, with a l
 Please ask me one question at a time and wait for my response before proceeding to the next question. This will ensure a systematic approach to gathering information for the business plan."
 
 ```
+
+Prompt: write copy in your own voice and tone (from email newsletter The Automated 01/17/2024)
+
+```
+“ChatGPT, I’m about to give you a sample of my writing. Please analyze and break down the tone of my writing, giving me the answer in the form of a bulleted list that I will refer to as my “tone guide”. Please do not refer to specific parts of the text. Simply use the text to help you come up with the tone guide.
+
+Sample text of my writing:
+
+[insert a representative sample of your writing, ideally at least a few paragraphs]
+
+Type of writing I do: [eg. a blogger, journalist, crime novelist, academic writer, etc]
+
+Target audience (optional): [insert here - who do you usually write for?]”
+
+```
