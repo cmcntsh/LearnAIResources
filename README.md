@@ -30,6 +30,7 @@
 * (Book) An Introduction to Statistical Learning https://www.statlearning.com/
 * Nvidia https://www.nvidia.com/en-us/training/
 * IBM SkillsBuild https://skills.yourlearning.ibm.com/activity/PLAN-7913EE1DB030
+* [Prompt Engineering for Medical Professionals](https://www.jmir.org/2023/1/e50638#app1)
 
 ## Image Generation
 
