@@ -161,3 +161,9 @@ Type of writing I do: [eg. a blogger, journalist, crime novelist, academic write
 Target audience (optional): [insert here - who do you usually write for?]”
 
 ```
+
+Prompt: find scholarly evidence for a particular topic
+
+```
+prompt: Is there any evidence to show that AI improves productivity in the workplace?
+```
