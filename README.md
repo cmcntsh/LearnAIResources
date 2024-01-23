@@ -167,3 +167,25 @@ Prompt: find scholarly evidence for a particular topic
 ```
 prompt: Is there any evidence to show that AI improves productivity in the workplace?
 ```
+
+Prompt: craft a jaw-dropping opening sentence (from email newletter The Automated 01/23/2024)
+
+```
+Let's work together to create an attention-grabbing opening sentence for my article on [insert topic or theme]. The opening sentence should [insert desired effect on the reader, e.g. such as grab their attention, make them curious, or convey a sense of urgency]. 
+
+Please use the following information to help you come up with suggestions:
+
+Target audience: [insert target audience for this article]
+
+Tone or style I want to convey in the opening sentence: [insert the tone or style of your article - eg. serious, humorous, informative, persuasive]
+
+Keywords or phrases that I want to include for SEO purposes: [insert any specific keywords or phrases if you want to]
+
+Main message I want readers to take away from the article: [insert answer here]
+
+Desired length: [insert maximum word count, if you want to]
+
+Call to action: [insert any specific call to action you want to include in the opening sentence, if applicable]
+
+Examples of successful opening sentences: [insert any examples of successful opening sentences you would like to emulate or that have worked well for you in the past]
+```
