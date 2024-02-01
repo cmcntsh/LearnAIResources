@@ -189,3 +189,9 @@ Call to action: [insert any specific call to action you want to include in the o
 
 Examples of successful opening sentences: [insert any examples of successful opening sentences you would like to emulate or that have worked well for you in the past]
 ```
+
+Prompt: Summarize YouTube videos with Google Bard (from email newletter The Automated 02/01/2024)
+
+```
+prompt: [insert YouTube URL] summarize this video in bullet points with proper headings
+```
