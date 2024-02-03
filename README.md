@@ -32,6 +32,7 @@
 * IBM SkillsBuild https://skills.yourlearning.ibm.com/activity/PLAN-7913EE1DB030
 * [Prompt Engineering for Medical Professionals](https://www.jmir.org/2023/1/e50638#app1)
 * IHI Forum 2023 Peter Lee - LLM in Medicine (1 hour) https://www.youtube.com/watch?v=nSk8iE0hDH0
+* University of Utah Intro to AI course https://utah.instructure.com/courses/941937
 
 ## Image Generation
 
