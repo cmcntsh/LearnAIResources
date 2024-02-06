@@ -10,6 +10,7 @@
 
 * https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform
 * AWS PartyRock https://partyrock.aws/?gclid=CjwKCAiA7t6sBhAiEiwAsaieYqlox2Dy29wxIiRwW20Q9CAqX_Zc_diMHbAZxdRKIIAhecdnPoOv0xoCfEoQAvD_BwE&ef_id=CjwKCAiA7t6sBhAiEiwAsaieYqlox2Dy29wxIiRwW20Q9CAqX_Zc_diMHbAZxdRKIIAhecdnPoOv0xoCfEoQAvD_BwE%3AG%3As&s_kwcid=AL%214422%213%21686079219735%21p%21%21g%21%21partyrock%2120901655877%21158309129978
+* HuggingFace chat (can select different opensource LLMs) https://huggingface.co/chat
 
 ## Programming Tools
 
