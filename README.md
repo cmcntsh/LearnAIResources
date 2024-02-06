@@ -44,6 +44,7 @@
 * Stable Diffusion https://stablediffusionweb.com/
 * Bing Images https://www.bing.com/images/create
 * This YouTube video has links to more. https://www.youtube.com/watch?v=f2hV-kpG-8g
+* https://ipic.ai/
 
 ## Semantic Search
 
