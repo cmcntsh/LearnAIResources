@@ -39,6 +39,10 @@
 * ClipDrop generate image from doodle https://clipdrop.co/stable-doodle
 * ClipDrop image generation https://clipdrop.co/stable-diffusion
 * https://app.leonardo.ai/auth/login
+* Google Bard https://lifehacker.com/tech/how-to-create-images-in-google-bard
+* Stable Diffusion https://stablediffusionweb.com/
+* Bing Images https://www.bing.com/images/create
+* This YouTube video has links to more. https://www.youtube.com/watch?v=f2hV-kpG-8g
 
 ## Semantic Search
 
