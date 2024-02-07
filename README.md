@@ -16,6 +16,9 @@
 
 * Supply information to build a comprehensive prompt https://mitenmit.github.io/gpt/
 
+![image](https://github.com/cmcntsh/LearnAIResources/assets/32034299/9e216933-4de8-4345-b40d-6cc2f6a005bf)
+
+
 ## Programming Tools
 
 * Online tools where you can code with Python
