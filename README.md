@@ -90,6 +90,12 @@
 * blob.sentences https://www.youtube.com/watch?v=ea4IadDRwuc
 * https://www.johnsnowlabs.com/text-preprocessing-splitting-texts-into-sentences-with-spark-nlp/
 
+## AI in Education
+
+* Khanmigo https://www.khanmigo.ai/
+* AI in Higher Education YouTube Playlist https://www.youtube.com/playlist?list=PLz6k7w7MM7W6DxJt1kdkytkGzIcxrJDFC
+* ChatGPT prompts for higher education https://alchemy.works/chatgpt-prompts/
+
 ## Business Plans
 
 * https://www.venturekit.ai/
