@@ -215,3 +215,9 @@ Prompt: Summarize YouTube videos with Google Bard (from email newletter The Auto
 ```
 prompt: [insert YouTube URL] summarize this video in bullet points with proper headings
 ```
+
+Prompt: Modify my resume to match the job description (from newsletter The Automated 02/29/2024)
+
+```
+I’ll provide you with the job description of the industry I’m targeting, as well as my current resume. Your task is to tailor my resume to the job by highlighting my relevant skills and experiences. Here is all the relevant information: <details on the job description, industry, and your current resume>.
+```
