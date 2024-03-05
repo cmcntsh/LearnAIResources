@@ -216,8 +216,42 @@ Prompt: Summarize YouTube videos with Google Bard (from email newletter The Auto
 prompt: [insert YouTube URL] summarize this video in bullet points with proper headings
 ```
 
+### Job Search
+
 Prompt: Modify my resume to match the job description (from newsletter The Automated 02/29/2024)
 
 ```
 I’ll provide you with the job description of the industry I’m targeting, as well as my current resume. Your task is to tailor my resume to the job by highlighting my relevant skills and experiences. Here is all the relevant information: <details on the job description, industry, and your current resume>.
 ```
+
+Prompt: Company research (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+I have an interview with [company] for the position of [job position]. Analyze the company’s website [website link] and give me a summary of the work they do.
+```
+
+Prompt: Generate a Cover Letter (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+[Insert job description] Write a cover letter for the role of [insert role] at [insert company], highlighting my experience with respect to the most important qualifications in the job description. Mention how my contributions at [insert previous company] will be a great addition to the [insert company].
+```
+
+Prompt: Interview Preparation (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+I am interviewing for the role of [insert role]. Give me a list of the most common questions asked in the interview for this role.
+```
+
+Prompt: Introduction Email (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+Write an introduction about myself in less than 150 words focusing on my experiences in [insert job field] for the [insert job title] at [insert company].
+```
+
+Prompt: Salary Negotiation (from newsletter Superhuman AI sent 03/04/2024)
+
+```
+I am a job seeker with [x] years of experience in [field]. I am applying for the role of [job role]. What are important factors to consider while negotiating my salary?
+```
+
+
