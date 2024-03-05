@@ -213,7 +213,17 @@ Examples of successful opening sentences: [insert any examples of successful ope
 Prompt: Summarize YouTube videos with Google Bard (from email newletter The Automated 02/01/2024)
 
 ```
-prompt: [insert YouTube URL] summarize this video in bullet points with proper headings
+[insert YouTube URL] summarize this video in bullet points with proper headings
+```
+
+Prompt: Create a quality assurance plan (from newsletter The Automated sent 03/04/2024)
+
+```
+I need to create a Quality Management or control system that will ensure our [type of products or services you offer] meet customer expectations.
+I need ideas for setting up a Quality Control process that will identify and mitigate any risks associated with our [input the type of products or services you offer].
+I'm looking for strategies to ensure our Quality Management system is up to date with the latest industry standards and regulations.
+I need to create a Quality Assurance system that will help  measure the quality of our [type of products or services you offer] over time.
+Also I need you to provide me with practical ways and steps I can take to address customer complaints and ensure customer satisfaction.
 ```
 
 ### Job Search
