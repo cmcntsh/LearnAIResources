@@ -226,6 +226,12 @@ I need to create a Quality Assurance system that will help  measure the quality 
 Also I need you to provide me with practical ways and steps I can take to address customer complaints and ensure customer satisfaction.
 ```
 
+Prompt: Improve writing - fix errors (from newsletter The Automated sent 03/06/2024)
+
+```
+Your task is to correct and improve the spelling of the following text: <text>. Your objective is to maintain the original meaning while enhancing the clarity and fluency of the text. Focus on correcting any spelling errors or grammatical mistakes, and consider rephrasing any awkward or unclear sentences to improve the overall readability of the text. Your response should only include the corrected and improved version of the text, without any additional comments or explanations.
+```
+
 ### Job Search
 
 Prompt: Modify my resume to match the job description (from newsletter The Automated 02/29/2024)
