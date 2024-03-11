@@ -257,6 +257,14 @@ Prompt: Revise a cover letter (from newsletter The Automated sent on 03/05/2024)
 Please provide me with some guidance on how to structure my cover letter to make it stand out and grab the reader’s attention. Here is my cover letter: “<your cover letter>”. Here is the job description I’m targeting: “<job description>”. The reader is <details about the reader>.
 ```
 
+Prompt: Add keywords and phrases from a job description to a cover letter (from newsletter The Automated sent 03/08/2024)
+
+```
+Please suggest ways to incorporate keywords and phrases from the job description I’m targeting into my cover letter to improve my chances of getting hired. Here is my cover letter: “<your cover letter>”. Here is the job description I’m targeting: “<job description>”
+```
+
+
+
 Prompt: Interview Preparation (from newsletter Superhuman AI sent 03/04/2024)
 
 ```
