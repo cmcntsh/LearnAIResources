@@ -263,7 +263,11 @@ Prompt: Add keywords and phrases from a job description to a cover letter (from 
 Please suggest ways to incorporate keywords and phrases from the job description I’m targeting into my cover letter to improve my chances of getting hired. Here is my cover letter: “<your cover letter>”. Here is the job description I’m targeting: “<job description>”
 ```
 
+Prompt: Get feedback on a cover letter (from newsletter Tha Automated sent 03/11/2024)
 
+```
+Please provide feedback on my cover letter for <specific job/position/industry>. I’ll provide you with my cover letter and the job description I’m targeting. Your task is to review the language, tone, and overall effectiveness of my cover letter and provide suggestions for improvement. Also, please give me tips on how to showcase better my skills and experiences, as well as how to convey my enthusiasm and passion for the role and the company. Here is my cover letter: “<your cover letter>”. Here is the job description I’m targeting: “<job description>”.
+```
 
 Prompt: Interview Preparation (from newsletter Superhuman AI sent 03/04/2024)
 
