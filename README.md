@@ -102,6 +102,8 @@
 
 ## Interesting prompts
 
+* Claude 3 prompt library https://docs.anthropic.com/claude/prompt-library
+
 Prompt: Get a label for instragram post
 
 ```
