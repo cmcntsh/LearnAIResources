@@ -236,6 +236,12 @@ Your task is to correct and improve the spelling of the following text: <text>. 
 
 ### Job Search
 
+Prompt: Keep your resume ATS-friendly (from newsletter Superhuman AI 04/03/2024)
+
+```
+Prompt: Review and edit my current resume, focusing on enhancing the clarity and impact of my experience in [Industry/Field]. Strengthen the language to better showcase my achievements, particularly in [Specific Roles or Projects], and ensure the layout is ATS-friendly. Adjust the skills section better to reflect the requirements of [Job Title].
+```
+
 Prompt: Modify my resume to match the job description (from newsletter The Automated 02/29/2024)
 
 ```
