@@ -295,4 +295,17 @@ Prompt: Salary Negotiation (from newsletter Superhuman AI sent 03/04/2024)
 I am a job seeker with [x] years of experience in [field]. I am applying for the role of [job role]. What are important factors to consider while negotiating my salary?
 ```
 
+### Writing Fiction (Scenario Creation)
 
+Prompt: Write a fictitious description of a scenario (from newsletter Superhuman AI sent on 04/12/2024)
+
+```
+Prompt: Write the dialogue and script for the following scene: Samuel L Jackson is the guide on a guided bus tour of London's most exciting sites. He hates his job.
+
+Samuel L Jackson's dialogue reads like his lines in action movies: intense, angry, and full of swear words.
+
+On the bus is a frustratingly inquisitive character who makes his day worse. He gets increasingly frustrated and starts arguing with the passenger. 
+
+Be descriptive and specific about the stops on the tour (at least five of them, visited one at a time) and the dialogue between Jackson and the passenger. 
+
+```
