@@ -309,3 +309,11 @@ On the bus is a frustratingly inquisitive character who makes his day worse. He 
 Be descriptive and specific about the stops on the tour (at least five of them, visited one at a time) and the dialogue between Jackson and the passenger. 
 
 ```
+
+### Evaluate feedback
+
+Prompt: CX Expert (from newsletter Superhuman AI sent 04/18/2024)
+
+```
+Pretend you are the Head of Customer Experience for a company that focuses on [insert product/industry here]. Read through the customer feedback provided and find any patterns. Provide insight on customer concerns, emotions, or potential problems. [insert all customer feedback copy here].
+```
