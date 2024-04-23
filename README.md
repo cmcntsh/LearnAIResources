@@ -295,6 +295,12 @@ Prompt: Salary Negotiation (from newsletter Superhuman AI sent 03/04/2024)
 I am a job seeker with [x] years of experience in [field]. I am applying for the role of [job role]. What are important factors to consider while negotiating my salary?
 ```
 
+Prompt: Elevator pitch - You can adapt the prompt to your needs. For example, you can upload your resume/CV or a cover letter to help the model better understand your experience. You can also suggest two or three items you want highlighted. (from newsletter Superhuman AI sent 04/23/2024)
+
+```
+Prompt: Help me create a 60-second elevator pitch that highlights my key skills and experiences relevant to the job I'm applying for.
+```
+
 ### Writing Fiction (Scenario Creation)
 
 Prompt: Write a fictitious description of a scenario (from newsletter Superhuman AI sent on 04/12/2024)
