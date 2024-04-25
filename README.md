@@ -18,6 +18,8 @@
 
 ![image](https://github.com/cmcntsh/LearnAIResources/assets/32034299/9e216933-4de8-4345-b40d-6cc2f6a005bf)
 
+* ChatGPT help to generate prompts https://www.searchenginejournal.com/how-to-write-chatgpt-prompts-to-get-the-best-results/511341/?utm_source=www.theautomated.co&utm_medium=newsletter&utm_campaign=make-your-blurry-videos-look-hd
+
 
 ## Programming Tools
 
