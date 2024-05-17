@@ -285,6 +285,12 @@ Prompt: Interview Preparation (from newsletter Superhuman AI sent 03/04/2024)
 I am interviewing for the role of [insert role]. Give me a list of the most common questions asked in the interview for this role.
 ```
 
+Prompt: Interview follow-up (from newsletter Superhuman AI sent 05/16/2024)
+
+```
+Prompt: I had an interview this morning and it went well. I really want the job. Please write a professional thank you email to the interviewer for [job title]. The interview took place on [date] at [time]. Express gratitude, highlight that I was impressed with the team and company culture and that I am confident I will thrive in the role. Reiterate relevant experience or qualifications, restate my interest and ask about next steps. Also reference that we have a shared love of dogs. 
+```
+
 Prompt: Introduction Email (from newsletter Superhuman AI sent 03/04/2024)
 
 ```
