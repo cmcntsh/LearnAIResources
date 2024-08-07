@@ -331,3 +331,11 @@ Prompt: CX Expert (from newsletter Superhuman AI sent 04/18/2024)
 ```
 Pretend you are the Head of Customer Experience for a company that focuses on [insert product/industry here]. Read through the customer feedback provided and find any patterns. Provide insight on customer concerns, emotions, or potential problems. [insert all customer feedback copy here].
 ```
+
+### Identify themes and topics in text
+
+Prompt: (from newsletter The Automated sent 08/06/2024)
+
+```
+You are an expert analyst. I am [mention the problem you’re facing in detail with context]. Examine the provided document and identify the primary themes and topics discussed. List each theme or topic along with a brief explanation. Provide relevant excerpts from the text that illustrate each identified theme or topic. Ensure that all significant themes and topics are covered comprehensively. I want you to [mention how you want the output in detail with examples].
+```
