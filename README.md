@@ -339,3 +339,11 @@ Prompt: (from newsletter The Automated sent 08/06/2024)
 ```
 You are an expert analyst. I am [mention the problem you’re facing in detail with context]. Examine the provided document and identify the primary themes and topics discussed. List each theme or topic along with a brief explanation. Provide relevant excerpts from the text that illustrate each identified theme or topic. Ensure that all significant themes and topics are covered comprehensively. I want you to [mention how you want the output in detail with examples].
 ```
+
+### Fact check a document
+
+Prompt: (from newsletter The Automated sent 08/07/2024)
+
+```
+You are an expert analyst. I am [mention the problem you’re facing in detail with context]. Analyze the attached document and identify all factual claims made by the author. Verify the accuracy of these claims using reliable external sources. For each claim, provide a brief report on its validity, including citations from your sources. Highlight any discrepancies or confirmations found during the verification process. I want you to [mention how you want the output in detail with examples].
+```
