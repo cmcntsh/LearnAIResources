@@ -351,3 +351,21 @@ Prompt: (from newsletter The Automated sent 08/07/2024)
 ```
 You are an expert analyst. I am [mention the problem you’re facing in detail with context]. Analyze the attached document and identify all factual claims made by the author. Verify the accuracy of these claims using reliable external sources. For each claim, provide a brief report on its validity, including citations from your sources. Highlight any discrepancies or confirmations found during the verification process. I want you to [mention how you want the output in detail with examples].
 ```
+
+### Turn Lectures into Quizzes
+
+From SuperHuman newsletter 12/10/2024
+  	THE AI ACADEMY 
+How to convert your lectures into quizzes with AI
+ 
+•	Go to Google AI Studio and log in with your account.
+•	Choose Gemini 1.5 Pro as your model and upload your lecture recording.
+•	Use the following prompt:
+Analyze the uploaded lecture and create a quiz designed to enhance understanding, including:
+1.	Multiple-choice questions to test key concepts
+2.	Short-answer questions for deeper engagement
+3.	Scenario-based questions for real-world application
+4.	True/false questions to reinforce core ideas
+Provide correct answers and brief explanations for each question to aid learning. Wait for "?" before revealing the answer and moving on to the next question.
+•	You can further create learning resources, study guides, and short notes for quick revision using Google AI Studio.
+
