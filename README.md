@@ -72,6 +72,12 @@
 
 * https://www.perplexity.ai/
 
+This would be interesting to try with some of the newer models available in ChatGPT or Perplexity. Models: "o3-mini" or "deep learning"
+
+```
+I'm writing an academic paper on [Your Topic]. Please provide a brief overview, outline (Intro, Literature Review, Methodology, Analysis, Discussion, Conclusion), key studies, research methods, data presentation ideas, and main implications—all in formal academic language with proper citations.
+```
+
 ## Literature Summary
 
 * Scispace https://typeset.io/
