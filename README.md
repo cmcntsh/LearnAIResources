@@ -46,6 +46,7 @@
 * [Prompt Engineering for Medical Professionals](https://www.jmir.org/2023/1/e50638#app1)
 * IHI Forum 2023 Peter Lee - LLM in Medicine (1 hour) https://www.youtube.com/watch?v=nSk8iE0hDH0
 * University of Utah Intro to AI course https://utah.instructure.com/courses/941937
+* Kaggle & Google course https://www.kaggle.com/learn-guide/5-day-genai
 
 ## Image Generation
 
