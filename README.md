@@ -331,3 +331,9 @@ Prompt: Train ChatGPT to generate prompts for you (from Superhuman newsletter 04
 ```
 Prompt: Act as a world-class prompt engineer. Your job is to help me generate powerful, high-impact prompts tailored to my needs. First, ask me what I’m trying to achieve. Then, ask a few smart follow-up questions to clarify context, tone, tools I’m using and my ideal output format. Once you understand my goal, give me 3 prompt variations: one basic, one creative, and one expert-level — all designed to get the best possible response from ChatGPT or other AI tools. Make sure the prompts are clear, flexible, and easy to reuse. At the end, offer one suggestion to make the prompt even better next time.
 ```
+
+Prompt: Summarize long docs and articles (from superhuman newsletter 04/22/2025 https://www.superhuman.ai/p/how-to-build-smarter-in-the-ai-era?_bhlid=6a49dcd61e9e70e8207729a246e4de3fb63ee226&utm_campaign=how-to-build-smarter-in-the-ai-era&utm_medium=newsletter&utm_source=superhuman)
+
+```
+Prompt: Act as an expert summarizer and critical reader. I’m going to share a long document or article with you — your job is to extract the key insights, break down complex points into simple language, and structure the summary so it’s easy to scan and understand. Start with a brief overview (2–3 sentences), followed by key takeaways as bullet points or sections (depending on the content). Highlight any data, trends, or powerful quotes worth remembering. If the document is biased, outdated, or missing context, let me know. At the end, suggest 1–2 thoughtful follow-up questions I could explore or ask someone if I were discussing this in a meeting. Assume I want to sound sharp without reading the whole thing. [Paste article or document]
+```
