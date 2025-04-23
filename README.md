@@ -326,3 +326,8 @@ Prompt: Elevator pitch - You can adapt the prompt to your needs. For example, yo
 Prompt: Help me create a 60-second elevator pitch that highlights my key skills and experiences relevant to the job I'm applying for.
 ```
 
+Prompt: Train ChatGPT to generate prompts for you (from Superhuman newsletter 04/23/2025 https://www.superhuman.ai/p/anthropic-s-startling-prediction?_bhlid=a83b3cb419ee1aa0ea174932fc8a16bd1abf3b4a&utm_campaign=anthropic-s-startling-prediction&utm_medium=newsletter&utm_source=superhuman)
+
+```
+Prompt: Act as a world-class prompt engineer. Your job is to help me generate powerful, high-impact prompts tailored to my needs. First, ask me what I’m trying to achieve. Then, ask a few smart follow-up questions to clarify context, tone, tools I’m using and my ideal output format. Once you understand my goal, give me 3 prompt variations: one basic, one creative, and one expert-level — all designed to get the best possible response from ChatGPT or other AI tools. Make sure the prompts are clear, flexible, and easy to reuse. At the end, offer one suggestion to make the prompt even better next time.
+```
