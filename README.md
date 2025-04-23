@@ -59,6 +59,12 @@
 * This YouTube video has links to more. https://www.youtube.com/watch?v=f2hV-kpG-8g
 * https://ipic.ai/
 
+## Voice Generation
+
+* Nari Lab
+  * https://github.com/nari-labs/dia
+  * https://www.youtube.com/watch?v=uyBH6Wpy7RY
+
 ## Semantic Search
 
 * Build a Document-based System (33 min) https://www.youtube.com/watch?v=cVA1RPsGQcw
