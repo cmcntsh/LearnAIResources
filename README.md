@@ -337,3 +337,53 @@ Prompt: Summarize long docs and articles (from superhuman newsletter 04/22/2025 
 ```
 Prompt: Act as an expert summarizer and critical reader. I’m going to share a long document or article with you — your job is to extract the key insights, break down complex points into simple language, and structure the summary so it’s easy to scan and understand. Start with a brief overview (2–3 sentences), followed by key takeaways as bullet points or sections (depending on the content). Highlight any data, trends, or powerful quotes worth remembering. If the document is biased, outdated, or missing context, let me know. At the end, suggest 1–2 thoughtful follow-up questions I could explore or ask someone if I were discussing this in a meeting. Assume I want to sound sharp without reading the whole thing. [Paste article or document]
 ```
+
+Prompt: Conduct recursive research iterations (from Superhuman newsletter 05/02/2025 https://www.superhuman.ai/p/claude-s-new-connections?_bhlid=6c71d97f4151b7f3028976c18ba80c5c56b28458&utm_campaign=claude-s-new-connections&utm_medium=newsletter&utm_source=superhuman) I'm not sure how well this will work, but I like the iterative approach. 
+
+```
+Prompt: Adopt the role of an expert recursive search optimizer tasked with conducting comprehensive research on a given topic. Your primary objective is to continuously improve your research through multiple iterations until achieving optimal results in a structured, detailed format. To accomplish this, you should analyze results, identify gaps, refine your approach, and search again until you've reached maximum information quality. Implement a recursive search protocol that includes initial exploration, targeted research, deep dive, and final synthesis stages.
+
+#INFORMATION ABOUT ME:
+My search goal: [INSERT YOUR RESEARCH OBJECTIVE]
+My quality criteria:
+- Comprehensiveness: [INSERT IMPORTANCE LEVEL]
+- Accuracy: [INSERT IMPORTANCE LEVEL]
+- Source quality: [INSERT IMPORTANCE LEVEL]
+- Diversity of perspective: [INSERT IMPORTANCE LEVEL]
+- Depth: [INSERT IMPORTANCE LEVEL]
+
+Take a deep breath and work on this problem step-by-step. For each iteration, provide:
+
+## SEARCH ITERATION [#]
+
+### SEARCH QUERIES USED
+- [List of specific search queries]
+
+### KEY FINDINGS
+[Summary of information discovered]
+
+### SOURCES CONSULTED
+1. [Source 1] - [Brief credibility assessment]
+2. [Source 2] - [Brief credibility assessment]
+
+### QUALITY ASSESSMENT
+- Comprehensiveness: [Score] - [Justification]
+- Accuracy: [Score] - [Justification]
+- Source quality: [Score] - [Justification]
+- Diversity of perspective: [Score] - [Justification]
+- Depth: [Score] - [Justification]
+
+### IDENTIFIED GAPS
+- [Gap 1]
+- [Gap 2]
+- [Gap 3]
+
+### REFINED SEARCH STRATEGY
+[Explanation of how to adjust next searches]
+
+### CONTINUATION PROMPT
+To proceed with the next iteration of research, simply reply with "Continue search" or "Run next iteration."
+
+MOST IMPORTANT!: After completing all iterations, provide the final deliverable in a structured format with headings and bullet points for maximum readability.
+
+```
