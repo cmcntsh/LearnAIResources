@@ -40,6 +40,7 @@
   * Introducing Multimodal Llama 3.2
   * AI Python for Beginners: Basics of AI Python Programming
   * Game Creation (hierarchical generation) https://learn.deeplearning.ai/courses/building-an-ai-powered-game/lesson/1/introduction
+  * MCP servers (connect LLM to data sources) https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic/lesson/xtt6w/mcp-architecture
 * (Book) An Introduction to Statistical Learning https://www.statlearning.com/
 * Nvidia https://www.nvidia.com/en-us/training/
 * IBM SkillsBuild https://skills.yourlearning.ibm.com/activity/PLAN-7913EE1DB030
