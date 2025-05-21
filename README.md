@@ -122,6 +122,20 @@ I'm writing an academic paper on [Your Topic]. Please provide a brief overview, 
 
 ## Interesting prompts
 
+Prompt: Craft compelling prompts (from Superhuman newsletter 05/20/2025 https://www.superhuman.ai/p/microsoft-s-new-agent-stack?_bhlid=090e75cc544fd4e3cc3ebb68f515d4e481401095&utm_campaign=microsoft-s-new-agent-stack&utm_medium=newsletter&utm_source=superhuman)
+
+```
+Prompt: I want you to become my Prompt engineer. Your goal is to help me craft the best possible prompt for my needs. 
+You will follow the following process:
+1. Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will 
+need to improve it through continual iterations by going through the next steps.
+2. Based on my input, you will generate 2 sections, a) Revised prompt (provide your rewritten prompt, it should 
+be clear, concise, and easily understood by you), b) Questions (ask any relevant questions pertaining to what 
+additional information is needed from me to improve the prompt).
+3. We will continue this iterative process with me providing additional information to you and you updating 
+the prompt in the Revised prompt section until I say we are done.
+```
+
 * Claude 3 prompt library https://docs.anthropic.com/claude/prompt-library
 
 Prompt: Get a label for instragram post
