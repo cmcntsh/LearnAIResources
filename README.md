@@ -402,3 +402,18 @@ To proceed with the next iteration of research, simply reply with "Continue sear
 MOST IMPORTANT!: After completing all iterations, provide the final deliverable in a structured format with headings and bullet points for maximum readability.
 
 ```
+
+### Quality Improvement
+
+Prompt: Root cause analysis (from Superhuman newsletter 05/29/2025 https://www.superhuman.ai/p/agents-change-how-work-gets-done?_bhlid=21bbc9bd4bbf0055fcd6586a028af5439747e3aa&last_resource_guid=Post%3A6a6ff27a-62bc-4ffe-b090-0932511757c6&utm_campaign=the-ai-workforce-has-arrived&utm_medium=newsletter&utm_source=superhuman)
+
+```
+Prompt: I want you to act as a process improvement expert and systems thinker. I’m currently facing the following recurring problem: [describe the issue in detail with background context]. Assist me in conducting a Root Cause Analysis to understand and resolve this issue at the source.
+
+Start by helping me clearly define the problem — include when, where, and how often it occurs. Guide me in gathering the relevant data or patterns around this issue. Then, use diagnostic frameworks (like the 5 Whys, Fishbone Diagram (Ishikawa), or Pareto Principle) to explore possible contributing factors.
+
+Once we identify the most likely root cause(s), recommend practical, realistic solutions to address it — both immediate fixes and long-term preventive strategies.
+
+Bonus: Share an example from a similar situation or industry to show how the same method worked elsewhere.
+
+```
