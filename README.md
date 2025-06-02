@@ -417,3 +417,20 @@ Once we identify the most likely root cause(s), recommend practical, realistic s
 Bonus: Share an example from a similar situation or industry to show how the same method worked elsewhere.
 
 ```
+
+Prompt: PDCA problem solving framework (from Superhuman newsletter 06/02/2025 https://www.superhuman.ai/p/ai-that-upgrades-itself?_bhlid=297534e6c0d7ec0aefe1d69d0dba3b020c234d34&utm_campaign=ai-that-upgrades-itself&utm_medium=newsletter&utm_source=superhuman)
+
+```
+Prompt: Act as a lean operations expert and continuous improvement coach. Help me apply the PDCA (Plan-Do-Check-Act) framework to solve the following problem: [Insert the problem in detail, including background, context, and frequency]. Guide me step-by-step through the cycle.
+
+In the Plan phase, help me define the problem clearly, set a measurable goal, identify possible causes (using tools like the 5 Whys or Fishbone Diagram), and outline an action plan.
+
+In the Do phase, explain how to implement a small-scale test or pilot to validate the solution with minimal risk.
+
+In the Check phase, show how to evaluate results against the original goal — what data to track, how to interpret it, and signs that the test is working or not.
+
+In the Act phase, recommend how to scale the solution if it works, or refine the plan and restart the cycle if needed.
+
+Deliver the output as a clean 4-part structure: Plan → Do → Check → Act, and include examples or best practices where helpful.
+
+```
