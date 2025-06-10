@@ -435,3 +435,34 @@ In the Act phase, recommend how to scale the solution if it works, or refine the
 Deliver the output as a clean 4-part structure: Plan → Do → Check → Act, and include examples or best practices where helpful.
 
 ```
+
+### Administrative/Productivity
+
+Prompt: Pull action items out of meeting notes (from Superhuman newsletter 06/10/2025 https://www.superhuman.ai/p/everything-announced-at-wwdc?_bhlid=d00ffdbb2688316476f6f04e40f34a617e2b96bd&utm_campaign=everything-announced-at-wwdc&utm_medium=newsletter&utm_source=superhuman)
+
+```
+Prompt: Act as an AI-powered meeting secretary with strong business context awareness. I will provide you with a meeting transcript, and your job is to extract and organize actionable insights into a structured post-meeting package.
+
+From the transcript, do the following step-by-step:
+
+Identify and list 5 key decisions that were made or agreed upon
+
+Extract all action items, including:
+
+Assigned owner
+
+Specific task or deliverable
+
+Due date or suggested timeline
+
+Spot potential blockers or risks, and for each one, suggest a fix or mitigation step
+
+Deliver two clean outputs:
+
+A concise, professional email summary ready to send to stakeholders
+
+A CSV-style task tracker, with columns: Task, Owner, Due Date, Status (default to "Not Started")
+
+Maintain a professional and concise tone, no fluff. If context is unclear, infer meaning based on typical team workflows. Highlight follow-ups and accountability clearly.
+
+```
