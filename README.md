@@ -404,6 +404,29 @@ MOST IMPORTANT!: After completing all iterations, provide the final deliverable 
 
 ```
 
+#### Social Media Optimization for Work
+
+Prompt: Optimize your LinkedIn Profile (from Superhuman newsletter 06/09/2025 https://www.superhuman.ai/p/startup-delivers-personalized-ai-podcasts?_bhlid=4156492905fd312188bfc97afdf596c831cf21fd&utm_campaign=startup-delivers-personalized-ai-podcasts&utm_medium=newsletter&utm_source=superhuman)
+
+```
+Prompt: Act as a LinkedIn personal branding expert and copywriter. I want to optimize my LinkedIn profile to attract more [insert your goal — e.g., recruiters in tech, high-value consulting clients, etc.]. I’ve attached a PDF that includes my current profile content: headline, About section, experience, skills, and possibly recommendations.
+
+Please analyze the profile and provide:
+
+Headline Suggestions – Clear, scroll-stopping headlines that speak directly to my target audience and value. Give me 2–3 options.
+
+About Section Rewrite – Rewrite the “About” section to tell a compelling story while highlighting credibility, achievements, and personality. Make sure it aligns with my goal.
+
+Experience Section Feedback – Identify any inconsistencies, outdated phrasing, or missed opportunities to add impact. Suggest edits that use action verbs and quantifiable results.
+
+Profile Strengths & Gaps – Point out what’s working well and what’s missing. 
+
+Tone & Style Alignment – Ensure the voice is confident, approachable, and tailored to the audience I want to attract.
+
+Format the output with bold headers for each section. Include examples where possible and be specific — I want this to be ready-to-copy or easy to tweak.
+
+```
+
 ### Quality Improvement
 
 Prompt: Root cause analysis (from Superhuman newsletter 05/29/2025 https://www.superhuman.ai/p/agents-change-how-work-gets-done?_bhlid=21bbc9bd4bbf0055fcd6586a028af5439747e3aa&last_resource_guid=Post%3A6a6ff27a-62bc-4ffe-b090-0932511757c6&utm_campaign=the-ai-workforce-has-arrived&utm_medium=newsletter&utm_source=superhuman)
