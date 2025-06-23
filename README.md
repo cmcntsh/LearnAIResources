@@ -4,9 +4,9 @@
 
 | Name | Link |
 | --- | --- |
-| Google Gemini |  |
-| Claude |  |
-| ChatGPT |  |
+| Google Gemini | https://gemini.google.com/app |
+| Claude | https://claude.ai/login?returnTo=%2F%3F |
+| ChatGPT | https://chatgpt.com/ |
 
 ## Generative AI tools
 
