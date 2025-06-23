@@ -1,5 +1,13 @@
 # Learn AI Resources
 
+## AI Providers
+
+| Name | Link |
+| --- | --- |
+| Google Gemini |  |
+| Claude |  |
+| ChatGPT |  |
+
 ## Generative AI tools
 
 * https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/
