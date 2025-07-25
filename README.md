@@ -7,6 +7,7 @@
 | Google Gemini | https://gemini.google.com/app |
 | Claude | https://claude.ai/login?returnTo=%2F%3F |
 | ChatGPT | https://chatgpt.com/ |
+| Microsoft Copilot | https://copilot.microsoft.com/chats/dgkDoReeQeSRue9MvSDDC |
 
 ## Generative AI tools
 
@@ -74,6 +75,11 @@
 * Nari Lab
   * https://github.com/nari-labs/dia
   * https://www.youtube.com/watch?v=uyBH6Wpy7RY
+
+## Podcast generation
+
+* https://podcastle.ai/blog/how-to-use-notebook-lm/
+  * https://notebooklm.google.com/
 
 ## Semantic Search
 
