@@ -58,6 +58,7 @@
 * IHI Forum 2023 Peter Lee - LLM in Medicine (1 hour) https://www.youtube.com/watch?v=nSk8iE0hDH0
 * University of Utah Intro to AI course https://utah.instructure.com/courses/941937
 * Kaggle & Google course https://www.kaggle.com/learn-guide/5-day-genai
+* Guide to creating a custom GPT https://hbsp.harvard.edu/inspiring-minds/create-custom-gpts-for-your-course?cid=email%7Cmarketo%7C2025-07-29-the-faculty-lounge%7C44321518%7Cfaculty-lounge-newsletter%7Cbutton%7Cvarious%7Cjul2025&acctID=22587501&mkt_tok=ODU1LUFUWi0yOTQAAAGb9VAq42Tb8hvJ9-Qh5tRk3LPfqeoZE4fIrnw-jEGOoJ4F90T5Q7YnYSS_3PHwuE_8CBxHiqXEOOoGXSw40fUCo2Pyslk4aPjEaWCw2Ro6QZdfRA
 
 ## Image Generation
 
