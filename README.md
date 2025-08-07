@@ -138,6 +138,23 @@ I'm writing an academic paper on [Your Topic]. Please provide a brief overview, 
 
 ## Interesting prompts
 
+Prompt: Automated research reports (from Superhuman newsletter 07/16/2025 https://www.superhuman.ai/p/thinking-machines-lands-historic-seed-round?_bhlid=cb7a6b5438de129f3fef0f8b8900f204cb993758&utm_campaign=thinking-machines-lands-historic-seed-round&utm_medium=newsletter&utm_source=superhuman)
+
+```
+Prompt: "You are a world-class strategy consultant trained by McKinsey, BCG, and Bain.
+Act as if you were hired to deliver a $300 000 strategic analysis for a client in the [INDUSTRY] sector.
+
+Mission
+1. Analyze the current state of the [INDUSTRY] market.
+2. Identify key trends, emerging threats, and disruptive innovations.
+3. Map the top 3-5 competitors and benchmark their business models, strengths, weaknesses, pricing, distribution, and brand positioning.
+4. Apply SWOT, Porter’s Five Forces, and value-chain analysis to assess risks and opportunities.
+5. Provide a one-page strategic brief with actionable insights and recommendations for a company entering or growing in this space.
+
+Return everything in concise bullet points or tables, ready to paste into slides. Think like a McKinsey partner preparing for a C-suite meeting."
+
+```
+
 Prompt: Craft compelling prompts (from Superhuman newsletter 05/20/2025 https://www.superhuman.ai/p/microsoft-s-new-agent-stack?_bhlid=090e75cc544fd4e3cc3ebb68f515d4e481401095&utm_campaign=microsoft-s-new-agent-stack&utm_medium=newsletter&utm_source=superhuman)
 
 ```
