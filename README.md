@@ -625,3 +625,14 @@ Prompt 3 -
 
 Can you give me a list of 5-7 free AI tools that are popular for workplace productivity? for example, ChatGPT. Then also give me a 1 sentence description for each. Can you also put it in a table so i can export it to a slide? 
 ```
+
+### Create Music
+
+Prompt: Create music (from SuperHuman newsletter 08/13/2025 https://www.superhuman.ai/p/perplexity-makes-bold-chrome-bid?_bhlid=c8702529e3615b163b59a1765c188d7ec6cdb578&utm_campaign=perplexity-makes-bold-chrome-bid&utm_medium=newsletter&utm_source=superhuman)
+
+https://elevenlabs.io/
+click on Music
+
+```
+High-energy Afro-Latin electro-pop at 108 BPM, syncopated dembow kick & metallic snare, side-chained sub-bass pump, glassy Juno pads, DX-bell arps, pitched-vocal chops in the drop; verses half-rapped in low register, chorus yelled with gang chants; chord loop vi-IV-I-V; master bus hot-compressed for club loudness
+```
