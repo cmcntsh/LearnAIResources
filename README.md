@@ -593,3 +593,35 @@ ChatGPT Prompt: 1980s high energy MTV commercial!
 Style is high-detail, hyper-realistic, cinematic photograph. It cannot be an illustration or a painting. Fish-eye lens without vignette or frame. Extreme-45°-angle Dutch tilt. Extreme close-up details blended into wide panoramic continuity. High-speed action.
 
 ```
+
+
+### PowerPoint Slides
+
+Prompt: Create consultant-style PowerPoint slides (from https://www.youtube.com/watch?v=cAORw6XkjS4)
+
+```
+Prompt 1 - 
+
+You are a management consultant. 
+
+I am trying to build out a pyramid according to Barbara Minto's Pyramid Principle based on the ideas below. Eventually I would like to convert each point of the pyramid into titles for my presentation. 
+
+Can you help me develop 2-3 ideas under each supporting point? Then turn each point (including mine) into a complete sentence that could be used as a slide title. Feel free to adjust mine as needed. 
+
+Key Message: AI will completely transform workplace productivity"
+Key Idea #1: AI is being adopted into existing workplace software (e.g. MS Office)
+Key Idea #2: There has been a rise in low-cost or free AI tools (e.g. Chat GPT)
+Key Idea #3: Everyday business professionals have been willing to adopt new technologies like AI
+
+As you build out the new slide titles, make sure each is a complete sentence that reads like a normal sentence such that if you read them altogether it would sound like a cohesive story. 
+
+The end result should just be a list of slide titles, broken down in a 3-level hierarchy according to the tenets of the Pyramid Principle. 
+
+Prompt 2 - 
+
+This is great. Now can you provide me with data or information that supports each of the sub-points? My preference is for quantitative data that I could put into a chart (i.e. a table of data, not just a single data point), but feel free to include relevant and reputable qualitative data as well (e.g. quotes from industry experts). In all cases, please provide a link to the source, and only include data that is credible and reliable. 
+
+Prompt 3 - 
+
+Can you give me a list of 5-7 free AI tools that are popular for workplace productivity? for example, ChatGPT. Then also give me a 1 sentence description for each. Can you also put it in a table so i can export it to a slide? 
+```
