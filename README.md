@@ -338,6 +338,13 @@ Prompt:
 <output_format> Return ONLY the following XML: <answer> <competitive_landscape> <!-- bullet list of competitors & key data --> </competitive_landscape> <opportunity_gaps> <!-- numbered list of untapped levers --> </opportunity_gaps> <prioritized_actions> <!-- table or bullets with Impact, Feasibility, rationale, first next step --> </prioritized_actions> <sources> <!-- numbered list of URLs or publication titles --> </sources> </answer> </output_format>
 ```
 
+Prompt: Design an email campaign (from Superhuman newsletter sent 08/15/2025 https://www.superhuman.ai/p/google-s-new-model-fits-on-your-phone?_bhlid=a3752ae7ff60f5cb0477948ee398439942e78a0a&utm_campaign=google-s-new-model-fits-on-your-phone&utm_medium=newsletter&utm_source=superhuman)
+
+```
+Prompt: Design a high-converting, multi-email campaign for the launch of [describe your product] by outlining target audience segmentation with clear personas, pain points, and buying triggers; positioning and messaging that highlight the tool’s unique value for each segment; a subject line strategy with multiple curiosity-driven and benefit-focused options; and a detailed content structure for each email including hook, core message (feature highlight, special offer, or social proof), visual elements, personalized touches based on name, business type, or relevant feature, and a strong call-to-action. Include persuasion assets such as offers, testimonials, case studies, or success metrics to build trust and urgency; personalization tactics that dynamically adapt to user behavior or demographics; and a recommended sending timeline and cadence for launch week and follow-ups to maximize engagement and conversions, with clear reasoning behind each choice.
+```
+
+
 ### Job Search
 
 Prompt: Keep your resume ATS-friendly (from newsletter Superhuman AI 04/03/2024)
