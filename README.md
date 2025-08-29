@@ -138,6 +138,23 @@ I'm writing an academic paper on [Your Topic]. Please provide a brief overview, 
 
 ## Interesting prompts
 
+Prompt: Reasoning template for better responses (from Superhuman newsletter sent 08/28/2025 https://www.superhuman.ai/p/nvidia-posts-record-q2-results?utm_source=superhuman&utm_medium=newsletter&utm_campaign=nvidia-posts-record-q2-results&_bhlid=ab7efdc3543faebc26c8af21249067b97fb1de12)
+
+```
+Prompt: Before answering, work through this step-by-step:
+
+1. UNDERSTAND: What is the core question being asked?
+2. ANALYZE: What are the key factors/components involved?
+3. REASON: What logical connections can I make?
+4. SYNTHESIZE: How do these elements combine?
+5. CONCLUDE: What is the most accurate/helpful response?
+
+Now answer: [YOUR ACTUAL QUESTION]
+
+Source: r/PromptEngineering
+
+```
+
 Prompt: Code explainer and debugger (from SuperHuman newsletter sent 08/20/2025 https://www.superhuman.ai/p/new-mit-study-spooks-wall-street?_bhlid=eb143ccd6ca07fccf19eb528cdc2fe6ec1664260&utm_campaign=new-mit-study-spooks-wall-street&utm_medium=newsletter&utm_source=superhuman)
 
 ```
