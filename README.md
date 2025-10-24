@@ -40,6 +40,7 @@
 
 ## Courses
 
+* University of Utah Teaching with AI Course https://utah.instructure.com/courses/941937
 * Google AI Course https://grow.google/intl/en_pk/guide-ai-machine-learning/
 * DeepLearning.ai short courses https://learn.deeplearning.ai/
   * Build Machine Learning Demos with Gradio appears to be free
