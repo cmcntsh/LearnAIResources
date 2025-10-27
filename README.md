@@ -40,6 +40,13 @@
 
 ## Courses
 
+* Standord CS224N: NLP with Deep Learning (on YouTube) https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
+* Standord CS224U: Natural Language Understanding (on YouTube) https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ
+* Stanford CS234: Reinforcement Learning (on YouTube) https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX
+* Stanford CS229M: Machine Learning Theory (on YouTube) https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh
+* Standord CS230P Deep Learning (on YouTube) https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+* Standord CS229: Machine Learning full course (on YouTube) https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+* Stanford CS221: Artificial Intelligence (on Youtube) https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2
 * University of Utah Teaching with AI Course https://utah.instructure.com/courses/941937
 * Google AI Course https://grow.google/intl/en_pk/guide-ai-machine-learning/
 * DeepLearning.ai short courses https://learn.deeplearning.ai/
