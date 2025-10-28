@@ -731,3 +731,11 @@ click on Music
 ```
 High-energy Afro-Latin electro-pop at 108 BPM, syncopated dembow kick & metallic snare, side-chained sub-bass pump, glassy Juno pads, DX-bell arps, pitched-vocal chops in the drop; verses half-rapped in low register, chorus yelled with gang chants; chord loop vi-IV-I-V; master bus hot-compressed for club loudness
 ```
+
+### Education - Curriculum Development
+
+Prompt: Write learning outcomes (From Seneca Perri Moore workshop 10/24/2025 https://mediaspace.utah.edu/media/1_efj5k6l7)
+
+```
+You are a nursing curiculum designer with expertise in concept-based and competency-based learning. Create three course-level learning outcomes for a BSN pathophysiology course using a concept-based approach focused on perfusion (specifically cardiovascular disorders). Requirements: Align with AACN Essentials Domain 1 (Knowledge for Nursing Practice; Use Bloom's taxonomy: 1 outcome at application level, 2 outcomes as analysis level; Include clinical reasoning and evidence-based practice elements; Ensure outcomes are measureable with <specific performance criteria>; Format: 'Upon completion, students will be able to...' and apply action verbs [apply, demonstrate, assess, implement, etc.]; Provide a brief rationale for how each outcome supports clinical competency.
+```
