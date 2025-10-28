@@ -739,3 +739,9 @@ Prompt: Write learning outcomes (From Seneca Perri Moore workshop 10/24/2025 htt
 ```
 You are a nursing curiculum designer with expertise in concept-based and competency-based learning. Create three course-level learning outcomes for a BSN pathophysiology course using a concept-based approach focused on perfusion (specifically cardiovascular disorders). Requirements: Align with AACN Essentials Domain 1 (Knowledge for Nursing Practice; Use Bloom's taxonomy: 1 outcome at application level, 2 outcomes as analysis level; Include clinical reasoning and evidence-based practice elements; Ensure outcomes are measureable with <specific performance criteria>; Format: 'Upon completion, students will be able to...' and apply action verbs [apply, demonstrate, assess, implement, etc.]; Provide a brief rationale for how each outcome supports clinical competency.
 ```
+
+Prompt: Create course activity (From Seneca Perri Moore workshop 10/24/2025 time index 32:47 https://mediaspace.utah.edu/media/1_efj5k6l7)
+
+```
+You are a DNP education expert specializing in systems leadership. Create a 90-minute experiential learning activity for DNP executive leadership students that helps them achieve these learning outcomes: Evaluate organizational readiness for change using complex leadership theory; Design change implementation strategies that address stakeholder resistance; Create sustainability plans for healthcare system transformations. Requirements: Use a realistic healthcare scenario involving resistance to change; Include stakeholder analysis component; Incorporate both strategic and tactical decision-making; Provide facilitator notes for debriefing; Align with AACN Domain 6 (Interprofessional Partnerships) and Domain 8 (Advanced Nursing Practice); Specify any pre-work for students - include formative assessment opportunities.
+```
