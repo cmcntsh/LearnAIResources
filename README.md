@@ -745,3 +745,9 @@ Prompt: Create course activity (From Seneca Perri Moore workshop 10/24/2025 time
 ```
 You are a DNP education expert specializing in systems leadership. Create a 90-minute experiential learning activity for DNP executive leadership students that helps them achieve these learning outcomes: Evaluate organizational readiness for change using complex leadership theory; Design change implementation strategies that address stakeholder resistance; Create sustainability plans for healthcare system transformations. Requirements: Use a realistic healthcare scenario involving resistance to change; Include stakeholder analysis component; Incorporate both strategic and tactical decision-making; Provide facilitator notes for debriefing; Align with AACN Domain 6 (Interprofessional Partnerships) and Domain 8 (Advanced Nursing Practice); Specify any pre-work for students - include formative assessment opportunities.
 ```
+
+Prompt: Create assessments (From From Seneca Perri Moore workshop 10/24/2025 time index 32:47 https://mediaspace.utah.edu/media/1_efj5k6l7)
+
+```
+You are a nursing education expert in community health. Create a comprehensive summative rubric for BSN students' final commuity health project (12-15 pages, 200 points) that assess their ability to: assess community health needs using data, design culturally appropriate interventions, and evaluate program effectiveness. Context: students conducted assessments, received feedback on drafts, and revised their work. Requirements: 8-9 criteria - community assessment quality, evidence synthesis, intervention design, theoretical framework, evaluation plan, social determinants integration, health equity, professional writing, BSN outcome alignment; 4 performance levels (exemplary to unsatisfactory) with detailed descriptors; weight criteria proportionally; distinguish exemplary from proficient BSN work; include narrative feedback space; align with AACN Essentials Domain 8.
+```
