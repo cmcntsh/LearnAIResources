@@ -751,3 +751,30 @@ Prompt: Create assessments (From From Seneca Perri Moore workshop 10/24/2025 tim
 ```
 You are a nursing education expert in community health. Create a comprehensive summative rubric for BSN students' final commuity health project (12-15 pages, 200 points) that assess their ability to: assess community health needs using data, design culturally appropriate interventions, and evaluate program effectiveness. Context: students conducted assessments, received feedback on drafts, and revised their work. Requirements: 8-9 criteria - community assessment quality, evidence synthesis, intervention design, theoretical framework, evaluation plan, social determinants integration, health equity, professional writing, BSN outcome alignment; 4 performance levels (exemplary to unsatisfactory) with detailed descriptors; weight criteria proportionally; distinguish exemplary from proficient BSN work; include narrative feedback space; align with AACN Essentials Domain 8.
 ```
+
+Turn AI research into slides (from SuperHuman newsletter sent 10/29/2025 https://www.superhuman.ai/p/openai-completes-for-profit-transition?utm_source=superhuman&utm_medium=newsletter&utm_campaign=openai-completes-for-profit-transition&_bhlid=0e7b68c1137a6ce6b0ce791b8a9156ee02450ddb)
+
+* Run a deep research query in ChatGPT, Perplexity, or Gemini
+* Copy the full output and paste it into ChatGPT with this prompt:
+
+```
+Rewrite as a JSON file, preserving all style and structure elements. "<Paste output here.>"
+```
+
+* Paste the JSON back into ChatGPT and prompt:
+
+```
+Restructure this JSON for presentation slides. "<Paste JSON here.>"
+```
+
+* Copy the final JSON and open Gamma, Canva, or PowerPoint AI
+* Paste the JSON, and prompt:
+
+```
+Use this JSON to generate professional slides. "<Paste JSON here.>"
+```
+
+* Select theme
+* Review slides for clarity and flow.
+* Switch images if needed.
+* Adjust fonts, spacing, adn colors as needed.
