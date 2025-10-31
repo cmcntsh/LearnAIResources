@@ -90,6 +90,10 @@
 * https://podcastle.ai/blog/how-to-use-notebook-lm/
   * https://notebooklm.google.com/
 
+## Video generation
+
+* OpenAI Sora https://openart.ai/home
+
 ## Semantic Search
 
 * Build a Document-based System (33 min) https://www.youtube.com/watch?v=cVA1RPsGQcw
