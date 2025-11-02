@@ -756,6 +756,8 @@ Prompt: Create assessments (From From Seneca Perri Moore workshop 10/24/2025 tim
 You are a nursing education expert in community health. Create a comprehensive summative rubric for BSN students' final commuity health project (12-15 pages, 200 points) that assess their ability to: assess community health needs using data, design culturally appropriate interventions, and evaluate program effectiveness. Context: students conducted assessments, received feedback on drafts, and revised their work. Requirements: 8-9 criteria - community assessment quality, evidence synthesis, intervention design, theoretical framework, evaluation plan, social determinants integration, health equity, professional writing, BSN outcome alignment; 4 performance levels (exemplary to unsatisfactory) with detailed descriptors; weight criteria proportionally; distinguish exemplary from proficient BSN work; include narrative feedback space; align with AACN Essentials Domain 8.
 ```
 
+#### PowerPoint Slide Generation from Deep Research
+
 Turn AI research into slides (from SuperHuman newsletter sent 10/29/2025 https://www.superhuman.ai/p/openai-completes-for-profit-transition?utm_source=superhuman&utm_medium=newsletter&utm_campaign=openai-completes-for-profit-transition&_bhlid=0e7b68c1137a6ce6b0ce791b8a9156ee02450ddb)
 
 * Run a deep research query in ChatGPT, Perplexity, or Gemini
@@ -782,3 +784,17 @@ Use this JSON to generate professional slides. "<Paste JSON here.>"
 * Review slides for clarity and flow.
 * Switch images if needed.
 * Adjust fonts, spacing, adn colors as needed.
+
+#### Situation-Complication-Resolution (SCR) Storyline Generation from Research
+
+Prompt: Create SCR storyline sentences (SCR portion of prompt from https://www.youtube.com/watch?v=Du-EBl7KFlA)
+
+```
+You are an expert in healthcare business consulting and evidence-based practice. Imagine that we are leading a consulting project to implement a practice change to address the scenario in this PICOT question. Here is the PICOT question: "<Paste PICOT question here.>" Below are the insights that we have identified through our analysis. I want you to synthesize all of this data together and create an SCR storyline, where S=situation, C=complication, and R=resolution. The situation should focus on the current state of practice; the complication should focus on what has caused the problems with the current state of practice; and the resolution should focus on how we should address the practice problem. Please format your output under the headings "situation, complication, and resolution" as bullet points, using full sentences with data in each bullet point. They should read like a story. If references are cited in the evidence, please list the references that are relevant to each sentence in the storyline with the sentence. Here is the analysis: "<Paste the analysis text here.>"
+```
+
+Follow-up prompt: Ways to position the storyline
+
+```
+What are the different ways you could position this same storyline?
+```
