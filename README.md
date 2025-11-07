@@ -37,6 +37,9 @@
 * BAB - Before, After, Bridge
 * CARE - Context, Action, Result, Example
 * RISE - Role, Input, Steps, Expectation
+* 5W1H - Who, What, When, Where, Why, How
+* Key components of a prompt: role/persona, context/background, task/instruction, desired format/output, constraints or guardrails
+  * Desired characteristics: unambiguous, reproducible and scalable, specify format or style, supports iteration and refinement
 
 
 ## Programming Tools
