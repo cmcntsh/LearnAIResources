@@ -29,6 +29,15 @@
 
 * ChatGPT help to generate prompts https://www.searchenginejournal.com/how-to-write-chatgpt-prompts-to-get-the-best-results/511341/?utm_source=www.theautomated.co&utm_medium=newsletter&utm_campaign=make-your-blurry-videos-look-hd
 
+### Prompt Building Frameworks
+
+* GCSE - Goal, Context, Source, Expectations from U of U Tech Tip Tuesdays https://mediaspace.utah.edu/media/t/1_2vqrw2aw
+* RTF - Role, Task, Format Examples on https://github.com/cmcntsh/LearnAIResources
+* TAG - Task, Action, Goal
+* BAB - Before, After, Bridge
+* CARE - Context, Action, Result, Example
+* RISE - Role, Input, Steps, Expectation
+
 
 ## Programming Tools
 
