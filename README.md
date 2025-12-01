@@ -707,37 +707,6 @@ Style is high-detail, hyper-realistic, cinematic photograph. It cannot be an ill
 ```
 
 
-### PowerPoint Slides
-
-Prompt: Create consultant-style PowerPoint slides (from https://www.youtube.com/watch?v=cAORw6XkjS4)
-
-```
-Prompt 1 - 
-
-You are a management consultant. 
-
-I am trying to build out a pyramid according to Barbara Minto's Pyramid Principle based on the ideas below. Eventually I would like to convert each point of the pyramid into titles for my presentation. 
-
-Can you help me develop 2-3 ideas under each supporting point? Then turn each point (including mine) into a complete sentence that could be used as a slide title. Feel free to adjust mine as needed. 
-
-Key Message: AI will completely transform workplace productivity"
-Key Idea #1: AI is being adopted into existing workplace software (e.g. MS Office)
-Key Idea #2: There has been a rise in low-cost or free AI tools (e.g. Chat GPT)
-Key Idea #3: Everyday business professionals have been willing to adopt new technologies like AI
-
-As you build out the new slide titles, make sure each is a complete sentence that reads like a normal sentence such that if you read them altogether it would sound like a cohesive story. 
-
-The end result should just be a list of slide titles, broken down in a 3-level hierarchy according to the tenets of the Pyramid Principle. 
-
-Prompt 2 - 
-
-This is great. Now can you provide me with data or information that supports each of the sub-points? My preference is for quantitative data that I could put into a chart (i.e. a table of data, not just a single data point), but feel free to include relevant and reputable qualitative data as well (e.g. quotes from industry experts). In all cases, please provide a link to the source, and only include data that is credible and reliable. 
-
-Prompt 3 - 
-
-Can you give me a list of 5-7 free AI tools that are popular for workplace productivity? for example, ChatGPT. Then also give me a 1 sentence description for each. Can you also put it in a table so i can export it to a slide? 
-```
-
 ### Create Music
 
 Prompt: Create music (from SuperHuman newsletter 08/13/2025 https://www.superhuman.ai/p/perplexity-makes-bold-chrome-bid?_bhlid=c8702529e3615b163b59a1765c188d7ec6cdb578&utm_campaign=perplexity-makes-bold-chrome-bid&utm_medium=newsletter&utm_source=superhuman)
@@ -767,6 +736,37 @@ Prompt: Create assessments (From From Seneca Perri Moore workshop 10/24/2025 tim
 
 ```
 You are a nursing education expert in community health. Create a comprehensive summative rubric for BSN students' final commuity health project (12-15 pages, 200 points) that assess their ability to: assess community health needs using data, design culturally appropriate interventions, and evaluate program effectiveness. Context: students conducted assessments, received feedback on drafts, and revised their work. Requirements: 8-9 criteria - community assessment quality, evidence synthesis, intervention design, theoretical framework, evaluation plan, social determinants integration, health equity, professional writing, BSN outcome alignment; 4 performance levels (exemplary to unsatisfactory) with detailed descriptors; weight criteria proportionally; distinguish exemplary from proficient BSN work; include narrative feedback space; align with AACN Essentials Domain 8.
+```
+
+### PowerPoint Slides
+
+Prompt: Create consultant-style PowerPoint slides (from https://www.youtube.com/watch?v=cAORw6XkjS4)
+
+```
+Prompt 1 - 
+
+You are a management consultant. 
+
+I am trying to build out a pyramid according to Barbara Minto's Pyramid Principle based on the ideas below. Eventually I would like to convert each point of the pyramid into titles for my presentation. 
+
+Can you help me develop 2-3 ideas under each supporting point? Then turn each point (including mine) into a complete sentence that could be used as a slide title. Feel free to adjust mine as needed. 
+
+Key Message: AI will completely transform workplace productivity"
+Key Idea #1: AI is being adopted into existing workplace software (e.g. MS Office)
+Key Idea #2: There has been a rise in low-cost or free AI tools (e.g. Chat GPT)
+Key Idea #3: Everyday business professionals have been willing to adopt new technologies like AI
+
+As you build out the new slide titles, make sure each is a complete sentence that reads like a normal sentence such that if you read them altogether it would sound like a cohesive story. 
+
+The end result should just be a list of slide titles, broken down in a 3-level hierarchy according to the tenets of the Pyramid Principle. 
+
+Prompt 2 - 
+
+This is great. Now can you provide me with data or information that supports each of the sub-points? My preference is for quantitative data that I could put into a chart (i.e. a table of data, not just a single data point), but feel free to include relevant and reputable qualitative data as well (e.g. quotes from industry experts). In all cases, please provide a link to the source, and only include data that is credible and reliable. 
+
+Prompt 3 - 
+
+Can you give me a list of 5-7 free AI tools that are popular for workplace productivity? for example, ChatGPT. Then also give me a 1 sentence description for each. Can you also put it in a table so i can export it to a slide? 
 ```
 
 #### PowerPoint Slide Generation from Deep Research
