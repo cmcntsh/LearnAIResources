@@ -811,3 +811,23 @@ Follow-up prompt: Ways to position the storyline
 ```
 What are the different ways you could position this same storyline?
 ```
+
+Prompt: Ripple effect analyzer (from SuperHuman newsletter sent 12/02/2025)
+
+```
+Prompt: I'm considering [describe your decision clearly].
+Help me think beyond the obvious.
+
+Identify the first-order effects (the immediate, direct outcomes).
+
+Analyze the second-order effects (the indirect, follow-on consequences).
+
+Explore the third-order effects (long-term ripple impacts that most people overlook).
+
+Highlight any risks, unintended consequences, or hidden dependencies.
+
+Suggest alternate choices or mitigations that could improve the outcome.
+
+Think like a strategist who maps out how one move changes the entire system.
+
+```
