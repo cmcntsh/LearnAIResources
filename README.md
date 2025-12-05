@@ -903,3 +903,36 @@ Script: [Full narration text for this slide.]
 USER-PROVIDED CONTENT DATA
 [PASTE YOUR RAW NOTES, ANALYSES, KEY FINDINGS, AND INSTRUCTIONAL STEPS HERE. The AI will use this raw data to formulate the Action Titles, Supporting Information, and the final Scripts.]
 ```
+
+Once you have the storyline, generate slides with a consulting company look and feel. Adapt parts of this prompt.
+
+Prompt: Generate McKinsey-, BCG-, Bain-style slides. (developed with help from Google Gemini on 12/04/2025)
+
+```
+Generate a slide deck outline and content that adheres to the visual and narrative style of a top-tier management consulting firm (e.g., McKinsey, BCG, Bain).
+
+### 1. Narrative & Structure (The Storyline)
+* **Deck Title:** [Insert the main topic/business problem, e.g., "Strategic Roadmap for Q4 Growth" or "Market Entry Strategy for Product X"]
+* **Slide Titles/Headlines:** Each slide must use a **storyline title** (also known as a "headline" or "assertion-based title"). This means the title is a complete sentence that conveys the main takeaway or finding of that slide, not just a topic. (e.g., *NOT* "Market Size," but "The serviceable market for Product X is currently $150M and growing at 12% annually.")
+* **Flow:** The deck must follow a logical, issue-driven narrative (e.g., Problem $\rightarrow$ Analysis $\rightarrow$ Solution $\rightarrow$ Roadmap/Next Steps).
+
+### 2. Visual & Aesthetic Style (The Clean Look)
+* **Aesthetic:** The design must be **minimalist, clean, and professional**. Use ample **white space**.
+* **Color Palette:** Use a very limited, professional color palette: primarily white background, black/dark gray text, and a single, muted primary accent color (e.g., deep blue, forest green, or a sophisticated gray) for charts and emphasis.
+* **Font:** Suggest using a clean, modern, sans-serif font (e.g., Arial, Helvetica, or a close equivalent).
+* **Visuals:** Rely heavily on **simple, high-impact visuals** (e.g., 2x2 matrices, flow charts, waterfall charts, simple bar/line charts) over decorative images.
+
+### 3. Content Requirements
+* **Level of Detail:** Content should be concise and bulleted, using the **"pyramid principle"** where the main assertion (title) is supported by key findings below it.
+* **Language:** Use clear, action-oriented, and professional business language. Avoid jargon unless industry-specific and essential.
+
+### 4. Required Slides
+Include a minimum of [4-6] distinct slides covering the following topics:
+1.  **Context/Problem Definition:** (Setting the stage and stating the burning issue.)
+2.  **Key Finding/Analysis:** (A core data-driven insight, often visualized.)
+3.  **Recommendation/Solution:** (The proposed path forward.)
+4.  **Implementation Roadmap/Next Steps:** (The plan to execute the solution.)
+
+**Target Audience:** [E.g., Senior Leadership, Board of Directors, Product Team]
+**Specific Topic/Data Points:** [Insert your actual content here. E.g., The problem is 15% customer churn, our analysis shows the key driver is poor onboarding, the solution is a 3-step revised process.]
+```
