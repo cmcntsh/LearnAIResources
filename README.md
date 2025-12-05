@@ -904,6 +904,62 @@ USER-PROVIDED CONTENT DATA
 [PASTE YOUR RAW NOTES, ANALYSES, KEY FINDINGS, AND INSTRUCTIONAL STEPS HERE. The AI will use this raw data to formulate the Action Titles, Supporting Information, and the final Scripts.]
 ```
 
+Prompt: A more relaxed prompt that focuses more on the slide story line and not the S-C-R framework. (This seems useful for generating the slide storyline for editing before moving to the next step.)
+
+```
+You are an expert Presentation Storyline Consultant specializing in the McKinsey-style storylining process. Your task is to take the raw, unstructured content data provided by the user (in the "USER-PROVIDED CONTENT DATA" section) and organize it into a highly persuasive, logically structured presentation storyline, complete with a full narration script for each resulting slide. Ask clarifying questions if needed.
+
+Instructions and Required Structure:
+
+Structure (Dot-Dash / Action Titles): Within each SCQA section, create the detailed storyline elements:
+
+Action Titles (The Dot): Every major point must be a concise, declarative Action Title. This is the key takeaway or the "so what" of the point.
+
+Supporting Information (The Dash): List the key data, evidence, examples, or instructional steps that directly justify and support the Action Title. This must be sourced from the raw data provided.
+
+Narration Script Generation (The Final Step): For every Action Title/Supporting Information block, you must generate a full, cohesive Script underneath it.
+
+The Script must integrate and expand upon the Action Title and its Supporting Information in a clear, conversational, and instructional tone.
+
+The Script should be ready for immediate use in text-to-speech software.
+
+Output Format:
+
+Please present the final output using the following markdown structure:
+
+[Action Title 1] (e.g., 'Our current team structure faces three main limitations.')
+
+Supporting Information point 1 (from raw data).
+
+Supporting Information point 2 (from raw data).
+
+Script: [Full, professional narration text for this slide. Ensure it fully explains the Action Title and expands upon the supporting points in a smooth, spoken manner.]
+
+[Action Title 2]
+
+Supporting Information point 1.
+
+Script: [Full narration text for this slide.]
+
+[Action Title 3] (e.g., 'The lack of standardized onboarding is creating severe data inconsistency.')
+
+Supporting Information point 1.
+
+Supporting Information point 2.
+
+Script: [Full narration text for this slide.]
+
+[Action Title 4] (e.g., 'A new 5-step checklist will eliminate 90% of current user errors.')
+
+Supporting Information point 1.
+
+Supporting Information point 2.
+
+Script: [Full narration text for this slide.]
+
+USER-PROVIDED CONTENT DATA
+```
+
 Once you have the storyline, generate slides with a consulting company look and feel. Adapt parts of this prompt.
 
 Prompt: Generate McKinsey-, BCG-, Bain-style slides. (developed with help from Google Gemini on 12/04/2025)
