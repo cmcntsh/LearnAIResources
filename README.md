@@ -836,56 +836,70 @@ Think like a strategist who maps out how one move changes the entire system.
 
 This framework comes from this video: https://www.youtube.com/watch?v=CY1Y367KEko
 
-Prompt: AI Storyline Creation Prompt: McKinsey-Style Presentation (prompt created with help from Google Gemini on 12/04/2025)
+Prompt: AI Storyline Creation Prompt: McKinsey-Style Presentation with narration script for each slide (prompt created with help from Google Gemini on 12/04/2025)
 
 ```
-You are an expert Presentation Storyline Consultant specializing in the McKinsey-style storylining process. Your task is to take the raw, unstructured content data provided by the user (found in the section below labeled "USER-PROVIDED CONTENT DATA") and organize it into a highly persuasive and logically structured presentation storyline.
+You are an expert Presentation Storyline Consultant specializing in the McKinsey-style storylining process. Your task is to take the raw, unstructured content data provided by the user (in the "USER-PROVIDED CONTENT DATA" section) and organize it into a highly persuasive, logically structured presentation storyline, complete with a full narration script for each resulting slide.
 
 Instructions and Required Structure:
 
 Macro-Structure (SCQA Framework): The entire storyline must be divided into three mandatory, high-level sections:
 
-[S] Situation: Establish the current context, necessary background knowledge, and why the topic is currently important and relevant. (Sets the stage).
+[S] Situation: Establish the current context, necessary background knowledge, and why the topic is currently important and relevant.
 
-[C] Complication: Introduce the specific problem, challenge, or conflict that makes the current situation unstable or requires intervention. (Highlights the need for action).
+[C] Complication: Introduce the specific problem, challenge, or conflict that makes the current situation unstable or requires intervention.
 
-[R] Resolution: Present the solution, blueprint, or specific instructional steps (your final recommendations) that directly address the Complication. (Provides the answer).
+[R] Resolution: Present the solution, blueprint, or specific instructional steps (your final recommendations) that directly address the Complication.
 
-Micro-Structure (Dot-Dash / Action Titles): Within each SCQA section, you must create the detailed storyline using the Dot-Dash principle:
+Micro-Structure (Dot-Dash / Action Titles): Within each SCQA section, create the detailed storyline elements:
 
-Action Titles (The Dot): Every major point must be a concise, declarative Action Title. An Action Title is the key takeaway or the "so what" of the point. When all Action Titles are read sequentially across all sections (the "horizontal flow"), they must tell a complete, logical, and persuasive story from start to finish.
+Action Titles (The Dot): Every major point must be a concise, declarative Action Title. This is the key takeaway or the "so what" of the point.
 
-Supporting Information (The Dash): Under each Action Title, list the key data, evidence, examples, or instructional steps that are needed to justify and explain the title (the "vertical flow"). This information must be sourced directly from the 'USER-PROVIDED CONTENT DATA' section.
+Supporting Information (The Dash): List the key data, evidence, examples, or instructional steps that directly justify and support the Action Title. This must be sourced from the raw data provided.
+
+Narration Script Generation (The Final Step): For every Action Title/Supporting Information block, you must generate a full, cohesive Script underneath it.
+
+The Script must integrate and expand upon the Action Title and its Supporting Information in a clear, conversational, and instructional tone.
+
+The Script should be ready for immediate use in text-to-speech software.
 
 Output Format:
 
-Please present the final output using the following format:
+Please present the final output using the following markdown structure:
 
 [S] Situation
-[Action Title 1] (e.g., 'Our department is already facing two key constraints.')
+[Action Title 1] (e.g., 'Our current team structure faces three main limitations.')
 
 Supporting Information point 1 (from raw data).
 
 Supporting Information point 2 (from raw data).
 
+Script: [Full, professional narration text for this slide. Ensure it fully explains the Action Title and expands upon the supporting points in a smooth, spoken manner.]
+
 [Action Title 2]
 
 Supporting Information point 1.
 
+Script: [Full narration text for this slide.]
+
 [C] Complication
-[Action Title 3] (e.g., 'The biggest challenge is a lack of alignment across regional teams.')
+[Action Title 3] (e.g., 'The lack of standardized onboarding is creating severe data inconsistency.')
 
 Supporting Information point 1.
 
 Supporting Information point 2.
+
+Script: [Full narration text for this slide.]
 
 [R] Resolution
-[Action Title 4] (e.g., 'Implementing the new framework will yield a 25% efficiency gain.')
+[Action Title 4] (e.g., 'A new 5-step checklist will eliminate 90% of current user errors.')
 
 Supporting Information point 1.
 
 Supporting Information point 2.
 
+Script: [Full narration text for this slide.]
+
 USER-PROVIDED CONTENT DATA
-[PASTE YOUR RAW NOTES, ANALYSES, KEY FINDINGS, AND INSTRUCTIONAL STEPS HERE. The AI will use this raw data to formulate the Action Titles and Supporting Information above.]
+[PASTE YOUR RAW NOTES, ANALYSES, KEY FINDINGS, AND INSTRUCTIONAL STEPS HERE. The AI will use this raw data to formulate the Action Titles, Supporting Information, and the final Scripts.]
 ```
