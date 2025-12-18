@@ -38,6 +38,14 @@
 * CARE - Context, Action, Result, Example
 * RISE - Role, Input, Steps, Expectation
 * 5W1H - Who, What, When, Where, Why, How
+* DEPTH - Define multiple perspectives, Establish success metrics, Provide context layers, Task breakdown, Human feedback loop
+  * From SuperHuman newsletter sent 12/18/2025
+  * Sample:
+  * D - You are three experts working together: 1) a neuroscientist who understands attention; 2) a viral content creator with 10M followers; 3) a conversation optimizer from a Fortune 500
+  * E - Previous posts: 2% engagement (need 10%+)
+  * P - Context: creating LinkedIn posts for AI consultants; Audience: CEOs scared of being left behind by AI
+  * T - Create post about ChatGPT enhancing productivity: Step 1 - Hook that stops scrolling; Step 2 - Story they relate to; Step 3 - Actionable insight; Step 4 - Engaging question
+  * H - Format: 200 words max, grade 6 reading level; After writing: score yourself and improve
 * Key components of a prompt: role/persona, context/background, task/instruction, desired format/output, constraints or guardrails
   * Desired characteristics: unambiguous, reproducible and scalable, specify format or style, supports iteration and refinement
 
