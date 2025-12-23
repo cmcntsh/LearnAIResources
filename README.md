@@ -105,6 +105,7 @@
 * Nari Lab
   * https://github.com/nari-labs/dia
   * https://www.youtube.com/watch?v=uyBH6Wpy7RY
+* TTSMP3 https://ttsmp3.com/
 
 ## Podcast generation
 
@@ -114,6 +115,17 @@
 ## Video generation
 
 * OpenAI Sora https://openart.ai/home
+
+## AI Voice Over PowerPoint
+
+* NotebookLM - Video Overview
+  * The video overview can be a bit superficial
+* NotebookLM - Slide deck
+  * Download the PDF
+  * Split the PDF into separate files using Adobe Acrobat
+  * Upload slide deck to ChatGPT, ask it to create a text-to-speech script for each slide
+  * Generate an mp3 for each slide using TTSMP3.com
+  * Put the individual slides and mp3s together in Adobe Express
 
 ## Semantic Search
 
