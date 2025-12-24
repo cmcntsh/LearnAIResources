@@ -126,6 +126,7 @@
   * Upload slide deck to ChatGPT, ask it to create a text-to-speech script for each slide
   * Generate an mp3 for each slide using TTSMP3.com
   * Put the individual slides and mp3s together in Adobe Express
+  * Merge video files if needed https://new.express.adobe.com/home/tools/merge-videos
 
 ## Semantic Search
 
