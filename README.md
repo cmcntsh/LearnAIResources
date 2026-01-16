@@ -182,6 +182,10 @@ I'm writing an academic paper on [Your Topic]. Please provide a brief overview, 
 
 * https://www.venturekit.ai/
 
+## Health
+
+* ChatGPT Health https://openai.com/index/introducing-chatgpt-health/
+
 ## Interesting prompts
 
 Prompt: Job Candidate Evaluation (from Superhuman newsletter 10/21/2025 https://www.superhuman.ai/p/chatgpt-for-doctors-hits-6b-valuation?utm_source=superhuman&utm_medium=newsletter&utm_campaign=chatgpt-for-doctors-hits-6b-valuation&_bhlid=0948162c08d1478c9700aa2f8120a54891ee8a32)
