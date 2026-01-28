@@ -9,6 +9,14 @@
 | ChatGPT | https://chatgpt.com/ |
 | Microsoft Copilot | https://copilot.microsoft.com/chats/dgkDoReeQeSRue9MvSDDC |
 
+## Interesting Open-Source Models
+
+Experimental. Do not trust. Don't use for sensitive/proprietary information.
+
+| Name | Link |
+| --- | --- |
+| Kimi (multimodal) | https://www.kimi.com/ |
+
 ## Generative AI tools
 
 * https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/
