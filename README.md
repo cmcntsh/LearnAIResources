@@ -186,6 +186,15 @@ I'm writing an academic paper on [Your Topic]. Please provide a brief overview, 
 * ChatGPT prompts for higher education https://alchemy.works/chatgpt-prompts/
 * AI Policies for Syllabi https://docs.google.com/spreadsheets/d/1lM6g4yveQMyWeUbEwBM6FZVxEWCLfvWDh1aWUErWWbQ/edit?gid=118697409#gid=118697409
 
+## Accessibility in Education
+
+* Have ChatGPT fix files for accessibility issues. From University of Utah training. https://mediaspace.utah.edu/media/t/1_teyaipii/389337522 
+
+Upload file and run this prompt.
+```
+Fox for WCAG and UDOIT
+```
+
 ## Business Plans
 
 * https://www.venturekit.ai/
