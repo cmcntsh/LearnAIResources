@@ -125,6 +125,10 @@ Experimental. Do not trust. Don't use for sensitive/proprietary information.
 
 * OpenAI Sora https://openart.ai/home
 
+## Presentation slide generation
+
+* https://gamma.app/
+
 ## AI Voice Over PowerPoint
 
 * NotebookLM - Video Overview
