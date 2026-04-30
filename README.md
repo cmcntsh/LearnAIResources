@@ -6,7 +6,7 @@
 | --- | --- |
 | Google Gemini | https://gemini.google.com/app |
 | Claude | https://claude.ai/login?returnTo=%2F%3F |
-| ChatGPT | https://chatgpt.com/ |
+| ChatGPT | https://chatgpt.com/ <br>https://chatgpt.com/images <br> chatgpt.com/agents|
 | Microsoft Copilot | https://copilot.microsoft.com/chats/dgkDoReeQeSRue9MvSDDC |
 
 ## Interesting Open-Source Models
