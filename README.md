@@ -190,6 +190,7 @@ I'm writing an academic paper on [Your Topic]. Please provide a brief overview, 
 * AI in Higher Education YouTube Playlist https://www.youtube.com/playlist?list=PLz6k7w7MM7W6DxJt1kdkytkGzIcxrJDFC
 * ChatGPT prompts for higher education https://alchemy.works/chatgpt-prompts/
 * AI Policies for Syllabi https://docs.google.com/spreadsheets/d/1lM6g4yveQMyWeUbEwBM6FZVxEWCLfvWDh1aWUErWWbQ/edit?gid=118697409#gid=118697409
+* Custom GPTs https://tonysams.github.io/Captain/ai-repository/
 
 ## Accessibility in Education
 
