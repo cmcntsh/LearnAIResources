@@ -201,6 +201,10 @@ Upload file and run this prompt.
 Fox for WCAG and UDOIT
 ```
 
+## Agents
+
+* OpenAI (ChatGPT) https://academy.openai.com/public/videos/creating-workspace-agents-for-higher-ed-faculty-and-researchers-webinar-replay
+
 ## Business Plans
 
 * https://www.venturekit.ai/
