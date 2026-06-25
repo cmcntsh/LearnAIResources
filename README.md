@@ -68,6 +68,7 @@ Experimental. Do not trust. Don't use for sensitive/proprietary information.
 
 ## Courses
 
+* Gemini Faculty Fundamentals https://www.youtube.com/playlist?list=PLP7Bvyb3ap46BI2SOtXWZitbnAl7zpsU3
 * Standord CS224N: NLP with Deep Learning (on YouTube) https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20 The link in the email I received went to the previous link, but I think it should be this one instead. https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
 * Standord CS224U: Natural Language Understanding (on YouTube) https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ
 * Stanford CS234: Reinforcement Learning (on YouTube) https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX
