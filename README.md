@@ -116,6 +116,7 @@ Experimental. Do not trust. Don't use for sensitive/proprietary information.
   * https://github.com/nari-labs/dia
   * https://www.youtube.com/watch?v=uyBH6Wpy7RY
 * TTSMP3 https://ttsmp3.com/
+* Fish Audio https://fish.audio/
 
 ## Podcast generation
 
