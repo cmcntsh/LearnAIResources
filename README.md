@@ -8,6 +8,7 @@
 | Claude | https://claude.ai/login?returnTo=%2F%3F |
 | ChatGPT | https://chatgpt.com/ <br>https://chatgpt.com/images <br> https://chatgpt.com/agents|
 | Microsoft Copilot | https://copilot.microsoft.com/chats/dgkDoReeQeSRue9MvSDDC |
+| Jev | https://typesafe.ai/ |
 
 ## Interesting Open-Source Models
 
@@ -40,6 +41,10 @@ Experimental. Do not trust. Don't use for sensitive/proprietary information.
 ![image](https://github.com/cmcntsh/LearnAIResources/assets/32034299/9e216933-4de8-4345-b40d-6cc2f6a005bf)
 
 * ChatGPT help to generate prompts https://www.searchenginejournal.com/how-to-write-chatgpt-prompts-to-get-the-best-results/511341/?utm_source=www.theautomated.co&utm_medium=newsletter&utm_campaign=make-your-blurry-videos-look-hd
+
+## Jev
+
+* demo video https://realpython.com/videos/jev-ai-first-look/
 
 ### Prompt Building Frameworks
 
